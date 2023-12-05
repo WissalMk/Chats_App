@@ -4,7 +4,7 @@ Une application de chat simple utilisant PHP, MySQL, et AJAX.
 ## Installation
 
 1. Clonez ce référentiel.
-2. Importez la base de données depuis `database.sql`.
+2. Importez la base de données depuis `conversation.sql`.
 3. Configurez les informations de base de données dans `model.php`.
 4. Lancez l'application en utilisant un serveur PHP.
 
